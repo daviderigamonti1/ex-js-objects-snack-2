@@ -24,7 +24,7 @@ secondBurger.maker.name = "Chef Hyur";
 
 console.log(hamburger.maker.name); // Chef Hyur
 console.log(secondBurger.maker.name); // Chef Hyur
-console.log(hamburger.maker.restaurant.name); // Hyur's Burgers
+console.log(hamburger.maker.restaurant.name); // Hyur's II
 console.log(secondBurger.maker.restaurant.name); // Hyur's II
 
 // Durante l'esecuzione del codice sono stati creati in memoria 5 oggetti, l'oggetto iniziale hamburger con i suoi oggetti annidati (maker, restaurant) e le copie secondBurger e newRestaurant.
